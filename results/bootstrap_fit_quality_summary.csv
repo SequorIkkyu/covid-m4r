@@ -1,0 +1,14 @@
+Quantity,Value
+MSE,83493485.55679154
+RMSE,9137.476979822797
+MAE,4876.592008412536
+Log-MSE,0.0053498533475630035
+Correlation between observed and fitted cases,0.9719319247701232
+R-squared style measure,0.9443474618536558
+Mean CI width,14384.283907913816
+Median CI width,13139.924634745505
+Mean relative CI width,0.152643391389009
+Median relative CI width,0.14346755950848403
+Observed points inside 95% fitted-case band (%),66.66666666666666
+Bootstrap replications,300.0
+Optimisation success rate (%),99.66666666666667
